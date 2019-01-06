@@ -4,6 +4,10 @@
 
 ###tic-tac-toe
 
+### lotto
+
+### tetris
+
 
 
 
