@@ -1,8 +1,8 @@
-#practice-js
+# practice-js
 
-###baseball
+### baseball
 
-###tic-tac-toe
+### tic-tac-toe
 
 ### lotto
 
